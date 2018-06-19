@@ -1,0 +1,159 @@
+@CHARSET "UTF-8";
+
+
+body{
+	
+	background-color:#2c3e50;
+	font-family:'Dosis', sans-serif;
+}
+h1.header{
+	
+	text-align:center;
+	color:#fff;
+}
+.form-login{
+	font-weight:500;
+	margin-top:100px;
+	margin-left:500px;
+	color:#fff;
+	text-decoration:none;
+}
+.frm{
+	width:40%;
+	box-sizing:border-box;
+	border:3px solid #fff; 
+	border-radius:7px;
+}
+
+
+body{
+background-color:#14437B;	
+}
+
+.navbar {
+	
+	background-color:#fff;
+	width:100%;
+	height:40px;
+	
+}
+.navbar .menu {
+	list-style: none;
+	margin-top: 0px;
+}
+.menu a .mli {
+	list-style: none;
+	display: inline;
+	font-size: 18px;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	color: #000;
+	float: right;
+	margin-top: -38px;
+}
+a{
+text-decoration:none;	
+}
+.navbar .menu .logo {
+	font-size: 28px;
+}
+.profile-side {
+	background-color: #fff;
+	height: 600px;
+	width: 20%;
+	margin-top: 10px;
+	box-sizing: border-box;
+
+
+	border:3px solid #;
+	border-radius: 7px;
+	background-color: #fff;
+	margin-left: 970px;
+}
+.profile-side h2{
+	
+text-align:center;	
+}
+.profile-side img{
+	
+margin-left:60px;	
+}
+.profile-side input {
+	margin-left: 69px;
+}
+.category{
+	background-color: #fff;
+	height: 600px;
+	width: 20%;
+	margin-top: -621px;
+	box-sizing: border-box;
+
+
+	border:3px solid #;
+	border-radius: 7px;
+	background-color: #fff;
+}
+.category h2{
+	text-align: center;
+	margin-top: 17px;
+	padding-top: 14px;
+}.category .cat-ul {
+	list-style:none;
+	padding:10px;
+}
+.cat-ul a li {
+	padding:10px;
+	font-size:20px;
+	color:#000;
+	box-sizing:border-box;
+	border:3px solid #fff;
+	border-radius:7px;
+	background-color:#E5E4E4;
+}
+.cat-ul a li:hover {
+padding-left:5px;
+background-color:#8FE5E9;
+
+}
+
+.post {
+	background-color: #fff;
+	width: 400px;
+	margin-left: 476px;
+	height: 150px;
+	box-sizing: border-box;
+	border: 3px solid #fff;
+	border-radius: 7px;
+	background-color: #fff;
+	font-weight: 400px;
+	margin-top: -595px;	
+}
+.post h4{
+margin-top:10px;	
+	
+}
+.content{
+	
+width:300px;
+height:50px;	
+}
+input{
+box-sizing:border-box;
+border:3px solid #fff;
+border-radius:7px;
+background-color:#bdc3c7;	
+	
+}
+input:hover{
+background-color:#ffff;	
+}
+.content{
+	box-sizing:border-box;
+border:3px solid #fff;
+border-radius:7px;
+background-color:#bdc3c7;	
+	
+}
